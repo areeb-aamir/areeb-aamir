@@ -3,55 +3,51 @@
 ### 🐍 Python Developer · 🤖 AI Agents · 🔌 APIs · ⚙️ Automation
 
 I’m a Python developer focused on building practical software with
-**APIs, AI agents, LLMs, and automation**.
+**Python, APIs, AI agents, LLMs, and automation.**
 
-Right now, I’m going beyond tutorial projects and exploring **real-world
-problems that businesses and people actually face** — with the goal of
-turning useful ideas into working software.
+Currently, I’m going beyond tutorial-style projects and exploring
+**real-world problems that people and businesses actually face** —
+with the goal of turning those problems into useful software.
 
 > **Learn → Build → Solve Real Problems → Improve**
 
 ---
 
-## 🚀 What I'm Doing Right Now
+## 🚀 What I'm Working On
 
-- 🐍 Building with Python and strengthening my software engineering fundamentals
-- 🔌 Working with REST APIs and multi-API workflows
+- 🐍 Strengthening Python and software engineering fundamentals
+- 🔌 Building REST API integrations and multi-step API workflows
 - 🤖 Building tool-using AI agents with function calling
 - 🧠 Experimenting with Gemini and LLM-powered workflows
-- ⚙️ Exploring automation and multi-step agent systems
+- ⚙️ Exploring automation for repetitive real-world workflows
 - 🌐 Building interactive applications with Streamlit
 - 🗄️ Learning SQL and database fundamentals
 - 🔎 Researching real-world problems before building solutions
-- 📦 Turning experiments into practical, deployable projects
+- 📦 Turning experiments into practical, deployable software
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
-### AI & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🤖 AI & Automation
 
 - Google Gemini API
 - LLM function calling
 - AI Agents
 - Tool calling
+- Multi-tool selection
 - Multi-step workflows
 - Conversation memory
 - Prompt engineering
 - Automation
 
-### APIs & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github" />
-</p>
+### 🔌 APIs & Integration
 
 - REST APIs
 - Python `requests`
@@ -59,11 +55,12 @@ turning useful ideas into working software.
 - Error handling
 - Timeouts & retries
 - Environment variables
-- Secret management
+- `.env` & secrets management
 
-### App Development
+### 🌐 Application Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=streamlit" />
+  <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" />
 </p>
 
 - Streamlit
@@ -71,47 +68,48 @@ turning useful ideas into working software.
 - Interactive dashboards
 - AI-powered web applications
 
-### Database
+### 🗄️ Database
+
 - SQL — currently learning
 
-### Tools
+### 🧰 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
 
 ---
 
-## 🤖 AI Agent Skills
+## 🤖 AI Agent Experience
 
-I’m particularly interested in building AI systems that can **use tools
-and perform multi-step tasks**, rather than simply generate text.
+I’m especially interested in building AI systems that can **use tools,
+make decisions across multiple steps, and complete workflows** rather
+than simply generate text.
 
-Some concepts I’ve worked with:
+### Concepts I've worked with
 
 - 🔧 Function calling
 - 🛠️ Tool usage
 - 🔀 Multi-tool selection
 - 🔗 Multi-step workflows
-- 🧠 Passing one tool's output into another step
+- 🧠 Passing tool results between steps
 - 💾 Conversation memory
 - 🎯 System prompts
 - 🧩 Agent design patterns
 
-A simple mental model I like:
+### My typical agent workflow
 
 ```text
-User
-  ↓
-AI Agent
-  ↓
-Understand the task
-  ↓
-Choose a tool
-  ↓
-Get result
-  ↓
-Reason over result
-  ↓
-Use another tool
-  ↓
-Produce final result
+User Request
+     ↓
+Understand the Task
+     ↓
+Select the Right Tool
+     ↓
+Execute Tool
+     ↓
+Analyze Result
+     ↓
+Use Another Tool if Needed
+     ↓
+Generate Final Output
