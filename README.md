@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![AI](https://img.shields.io/badge/AI-Gemini%20API-orange)
+![Agents](https://img.shields.io/badge/AI-Agents-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
 # Hey, I'm Areeb Aamir 👋
 
 ### 🐍 Python Developer · 🤖 AI Agents · 🔌 APIs · ⚙️ Automation
