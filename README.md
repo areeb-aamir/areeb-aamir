@@ -1,41 +1,117 @@
-# Hi, I'm Areeb Aamir 👋
+# Hey, I'm Areeb Aamir 👋
 
-🎓 Learning Python with a focus on AI automation, agents, and building real-world tools  
-🚀 Currently building AI-powered projects and freelancing in Python/AI development  
-🌱 On a journey from developer → founder — combining software with AI to build meaningful products  
+### 🐍 Python Developer · 🤖 AI Agents · 🔌 APIs · ⚙️ Automation
 
-## 🛠️ What I'm Working With
+I’m a Python developer focused on building practical software with
+**APIs, AI agents, LLMs, and automation**.
 
-- **Languages:** Python
-- **Currently Learning:** APIs, OpenAI/Anthropic integration, LangChain, AI Agents
-- **Tools:** Git, GitHub, VS Code
+Right now, I’m going beyond tutorial projects and exploring **real-world
+problems that businesses and people actually face** — with the goal of
+turning useful ideas into working software.
 
-## 📌 Featured Repository
-
-- 🐍 [Python Learning Journey](https://github.com/areeb-aamir/python-learning-journey) — My complete Python learning path, from fundamentals to OOP, with 20+ hands-on projects
-
-## 📈 What's Next
-
-Building AI agents and automation tools, then moving toward SaaS products and eventually integrating hardware — one step at a time.
-
-## 📫 Reach Me
-
-- GitHub: [@areeb-aamir](https://github.com/areeb-aamir)
+> **Learn → Build → Solve Real Problems → Improve**
 
 ---
-*"Quality over quantity — building things the right way, from the start."*
 
-<!--
-**areeb-aamir/areeb-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm Doing Right Now
 
-Here are some ideas to get you started:
+- 🐍 Building with Python and strengthening my software engineering fundamentals
+- 🔌 Working with REST APIs and multi-API workflows
+- 🤖 Building tool-using AI agents with function calling
+- 🧠 Experimenting with Gemini and LLM-powered workflows
+- ⚙️ Exploring automation and multi-step agent systems
+- 🌐 Building interactive applications with Streamlit
+- 🗄️ Learning SQL and database fundamentals
+- 🔎 Researching real-world problems before building solutions
+- 📦 Turning experiments into practical, deployable projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### AI & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Google Gemini API
+- LLM function calling
+- AI Agents
+- Tool calling
+- Multi-step workflows
+- Conversation memory
+- Prompt engineering
+- Automation
+
+### APIs & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+- REST APIs
+- Python `requests`
+- API chaining
+- Error handling
+- Timeouts & retries
+- Environment variables
+- Secret management
+
+### App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
+
+- Streamlit
+- Session state
+- Interactive dashboards
+- AI-powered web applications
+
+### Database
+- SQL — currently learning
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+
+## 🤖 AI Agent Skills
+
+I’m particularly interested in building AI systems that can **use tools
+and perform multi-step tasks**, rather than simply generate text.
+
+Some concepts I’ve worked with:
+
+- 🔧 Function calling
+- 🛠️ Tool usage
+- 🔀 Multi-tool selection
+- 🔗 Multi-step workflows
+- 🧠 Passing one tool's output into another step
+- 💾 Conversation memory
+- 🎯 System prompts
+- 🧩 Agent design patterns
+
+A simple mental model I like:
+
+```text
+User
+  ↓
+AI Agent
+  ↓
+Understand the task
+  ↓
+Choose a tool
+  ↓
+Get result
+  ↓
+Reason over result
+  ↓
+Use another tool
+  ↓
+Produce final result
