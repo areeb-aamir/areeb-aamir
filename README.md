@@ -1,4 +1,3 @@
-````markdown
 # Hey, I'm Areeb Aamir 👋
 
 ### 🐍 Python Developer · 🤖 AI Agents · 🔌 APIs · ⚙️ Automation
@@ -268,4 +267,4 @@ instead of building features just because they sound impressive.
 <p align="center">
   <i>Building, learning, and solving one problem at a time.</i>
 </p>
-```
+
