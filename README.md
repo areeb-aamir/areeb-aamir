@@ -1,3 +1,4 @@
+````markdown
 # Hey, I'm Areeb Aamir 👋
 
 ### 🐍 Python Developer · 🤖 AI Agents · 🔌 APIs · ⚙️ Automation
@@ -86,7 +87,7 @@ I’m especially interested in building AI systems that can **use tools,
 make decisions across multiple steps, and complete workflows** rather
 than simply generate text.
 
-### Concepts I've worked with
+### Concepts I've Worked With
 
 - 🔧 Function calling
 - 🛠️ Tool usage
@@ -97,7 +98,7 @@ than simply generate text.
 - 🎯 System prompts
 - 🧩 Agent design patterns
 
-### My typical agent workflow
+### My Typical Agent Workflow
 
 ```text
 User Request
@@ -113,19 +114,52 @@ Analyze Result
 Use Another Tool if Needed
      ↓
 Generate Final Output
-📌 Featured Project
-🐍 Python Learning Journey
+````
+
+---
+
+## 📌 Featured Project
+
+### 🐍 Python Learning Journey
 
 My Python learning journey covering fundamentals, OOP, modules,
-error handling, file handling, and more — with 20+ hands-on projects.
+error handling, file handling, and more — with **20+ hands-on projects**.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/areeb-aamir/python-learning-journey)
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=areeb-aamir&show_icons=true&hide_border=true" height="170" alt="Areeb's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeb-aamir&layout=compact&hide_border=true" height="170" alt="Areeb's Top Languages" /> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=areeb-aamir&hide_border=true" alt="GitHub Contribution Streak" /> </p>
-🌱 Currently Learning
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=areeb-aamir&show_icons=true&hide_border=true"
+    height="170"
+    alt="Areeb's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeb-aamir&layout=compact&hide_border=true"
+    height="170"
+    alt="Areeb's Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=areeb-aamir&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
 SQL & Databases
      ↓
 Authentication & OAuth
@@ -139,12 +173,17 @@ Customer Discovery
 Product Thinking
      ↓
 Building Real-World Software
-🔎 My Current Direction
+```
+
+---
+
+## 🎯 My Current Direction
 
 I’m working toward becoming a developer who can do more than just write code.
 
 My long-term direction:
 
+```text
 Programming Fundamentals
         ↓
 APIs & Integrations
@@ -158,28 +197,35 @@ Useful Software
 Real Users
         ↓
 Products & SaaS
+```
 
-The goal is to build software that solves real problems,
-not just software that looks impressive.
+> **The goal is to build software that solves real problems, not just software that looks impressive.**
 
-💡 Problems I'm Interested In
+---
+
+## 💡 Problems I'm Interested In
 
 I’m particularly interested in software that reduces:
 
-Repetitive manual work
-Spreadsheet-heavy workflows
-Copy/paste tasks
-Information gathering
-Document processing
-Monitoring
-Reporting
-Follow-ups
-Multi-step business workflows
-Areas I’m exploring
+* Repetitive manual work
+* Spreadsheet-heavy workflows
+* Copy/paste tasks
+* Information gathering
+* Document processing
+* Monitoring
+* Reporting
+* Follow-ups
+* Multi-step business workflows
 
-Python + APIs + AI + Automation + Real-World Problems
+### Areas I'm Exploring
 
-📈 How I Prefer to Build
+**Python + APIs + AI + Automation + Real-World Problems**
+
+---
+
+## 📈 How I Prefer to Build
+
+```text
 Understand the Problem
         ↓
 Talk to Real Users
@@ -193,11 +239,33 @@ Test With Real Users
 Learn
         ↓
 Improve
+```
 
-I prefer building around real problems and real feedback
+I prefer building around **real problems and real feedback**
 instead of building features just because they sound impressive.
 
-📫 Connect With Me
-<p> <a href="https://www.linkedin.com/in/areeb-aamir-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/m_areeb1816"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/> </a> <a href="https://www.reddit.com/user/areeb_aamir/"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/> </a> <a href="https://github.com/areeb-aamir"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-<p align="center"> <i>Building, learning, and solving one problem at a time.</i> </p> ```
-Lekin abhi 2 cheezein README ke baad karni hain
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/areeb-aamir-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/m_areeb1816">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.reddit.com/user/areeb_aamir/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://github.com/areeb-aamir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and solving one problem at a time.</i>
+</p>
+```
